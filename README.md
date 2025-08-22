@@ -3,7 +3,7 @@ Hello there! 👋 I'm SreeLekha, and I'm thrilled to have you visit my GitHub pr
 
 I am a tech enthusiast with a keen interest in Web Development, Machine learning, and Software Engineering My journey in the world of programming has been exciting, and I continuously strive to learn, innovate, and create impactful solutions.
  
-📫 How to reach me - lekhasree0088@gmail.com
+📫 How to reach me - sreelekhakarra.sl@gmail.com
     LinkedIn - 
 
 ### Thank You
